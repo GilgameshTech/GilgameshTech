@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GilgameshTech
 - 👀 I’m interested in the mystery of reality
-- 🌱 I’m currently learning Rust Programming
+- 🌱 I’m currently learning Game
 
 <!---
 GilgameshTech/GilgameshTech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
